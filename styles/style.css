@@ -40,6 +40,7 @@
 .guides__item {
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
   position: relative;
   max-width: 421px;
   width: 100%;
@@ -99,7 +100,6 @@
   color: #FFFFFF;
   margin: 15px 0 0 0;
   padding: 0 30px;
-  min-height: 72px;
 }
 
 .guides__link {
